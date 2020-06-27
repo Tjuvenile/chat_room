@@ -1,0 +1,3 @@
+user:1111111
+password:0
+friend:123456789,
