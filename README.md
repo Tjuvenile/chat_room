@@ -6,6 +6,7 @@
 
 我没有用数据库来存储账号和密码，而是在/user下为每个用户创建一个"用户名.txt"的文件，里面存的有此用户的密码以及friend。
 /user/chat下存储的是用户的聊天记录
+
 ![](https://github.com/Tjuvenile/chat_room/raw/master/project_screenshot/file_list.png)
 
 登陆窗口
