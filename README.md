@@ -10,12 +10,19 @@
 ![](https://github.com/Tjuvenile/chat_room/raw/master/project_screenshot/file_list.png)
 
 登陆窗口
+
 ![](https://github.com/Tjuvenile/chat_room/raw/master/project_screenshot/login.png)
+
 注册窗口
+
 ![](https://github.com/Tjuvenile/chat_room/raw/master/project_screenshot/register.png)
+
 登陆进去之后，显示好友列表窗口
+
 ![](https://github.com/Tjuvenile/chat_room/raw/master/project_screenshot/friend_list.png)
+
 双击好友列表里的好友，可以进入聊天窗口
+
 ![](https://github.com/Tjuvenile/chat_room/raw/master/project_screenshot/chat_window.png)
 
 
